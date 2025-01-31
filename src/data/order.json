@@ -1,0 +1,26 @@
+[
+  {
+    "userId": "1738225799318",
+    "cart": [
+      {
+        "name": "mobile",
+        "price": 400,
+        "item": 4
+      }
+    ],
+    "checkedOut": true,
+    "totalPrice": 1600
+  },
+  {
+    "userId": "1738225817877",
+    "cart": [
+      {
+        "name": "laptop",
+        "price": 300,
+        "item": 3
+      }
+    ],
+    "checkedOut": true,
+    "totalPrice": 900
+  }
+]
